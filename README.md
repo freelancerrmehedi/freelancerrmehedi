@@ -40,7 +40,9 @@ I can also design landing pages, fix WordPress issues and errors, and often help
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freelancerrmehedi)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=freelancerrmehedi&show_icons=true) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=freelancerrmehedi)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=freelancerrmehedi)
+
+<img src="https://github.com/mikyll/mikyll/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" style="max-width: 100%;">
 
 ![GitHub metrics](https://metrics.lecoq.io/freelancerrmehedi)  
 
