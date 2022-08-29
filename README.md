@@ -39,9 +39,7 @@ I can also design landing pages, fix WordPress issues and errors, and often help
 
 <img src="https://github.com/mikyll/mikyll/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" style="max-width: 100%;">
 
-![GitHub metrics](https://metrics.lecoq.io/freelancerrmehedi)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=freelancerrmehedi)
+![GitHub metrics](https://metrics.lecoq.io/freelancerrmehedi) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=freelancerrmehedi)
 
 ## ⤵️ Connect with me!
 <p dir="auto">
@@ -55,5 +53,3 @@ I can also design landing pages, fix WordPress issues and errors, and often help
 
 ## 📧 For Business Inquiries
 ✳️ ➖ freelancerrmehedi@gmail.com 
-
-<img height="100em" src="https://camo.githubusercontent.com/ee6c9c28ca68c544f08b6874e7ab080b2f563af6243ad3266ee3827ef2966cbd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d726978657462642673686f775f69636f6e733d74727565267468656d653d7261646963616c26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rixetbd&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
