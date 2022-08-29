@@ -39,7 +39,7 @@ I can also design landing pages, fix WordPress issues and errors, and often help
 
 <img src="https://github.com/mikyll/mikyll/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" style="max-width: 100%;">
 
-![GitHub metrics](https://metrics.lecoq.io/freelancerrmehedi) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=freelancerrmehedi)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=freelancerrmehedi)
 
 ## ⤵️ Connect with me!
 <p dir="auto">
