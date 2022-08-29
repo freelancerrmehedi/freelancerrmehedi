@@ -2,9 +2,9 @@
 
 ## Hi there 👋, My Name is Freelancer Mehedi
 <p>
-#### ✳️ I am Web Designer
-#### ✳️ WordPress Developer
-#### ✳️ Ecommerce Expert
+#### ✳️ I am Web Designer<br>
+#### ✳️ WordPress Developer<br>
+#### ✳️ Ecommerce Expert<br>
 #### ✳️ Digital Marketer
 </p>
 ![Profile views](https://gpvc.arturio.dev/freelancerrmehedi)   
