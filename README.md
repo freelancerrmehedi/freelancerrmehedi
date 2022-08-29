@@ -76,13 +76,3 @@ I can also design landing pages, fix WordPress issues and errors, and often help
 
 ## 📧 For Business Inquiries
 ✳️ ➖ freelancerrmehedi@gmail.com 
-
-
- * @returns {string}
- */
-const renderCompactLayout = (langs, width, totalLanguageSize) => {
-  const paddingRight = 50;
- * @returns {number}
- */
-const calculateCompactLayoutHeight = (totalLangs) => {
-  return 90 + Math.round(totalLangs / 2) * 25;
