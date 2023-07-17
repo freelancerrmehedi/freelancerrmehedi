@@ -4,7 +4,7 @@
 <p>
 ✳️ I am Web Designer<br>
 ✳️ WordPress Developer<br>
-✳️ Ecommerce Expert<br>
+✳️ E-commerce Expert<br>
 ✳️ Digital Marketer
 </p>
 
