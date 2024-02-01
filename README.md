@@ -5,7 +5,7 @@
 
 ## Hi there 👋, My Name is Freelancer Mehedi
 <p>
-✳️ I am Web Designer<br>
+✳️ I am a Web Designer<br>
 ✳️ WordPress Developer<br>
 ✳️ E-commerce Expert<br>
 ✳️ Digital Marketer
