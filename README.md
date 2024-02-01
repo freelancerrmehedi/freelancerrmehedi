@@ -1,7 +1,9 @@
 ![I am WordPress Developer](https://media-exp1.licdn.com/dms/image/C5616AQE0Mj7HDLDGEw/profile-displaybackgroundimage-shrink_350_1400/0/1660673136009?e=1667433600&v=beta&t=tWWH0__faF44uT22-4SLzo72zHoNJI0FAD7hCsvcpsU)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/freelancerrmehedi)  
-
+<p align="left">
+<a href="https://fb.com/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
+</p>
 ## Hi there 👋, My Name is Freelancer Mehedi
 <p>
 ✳️ I am Web Designer<br>
