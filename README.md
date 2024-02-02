@@ -1,11 +1,11 @@
 ![I am WordPress Developer](https://media-exp1.licdn.com/dms/image/C5616AQE0Mj7HDLDGEw/profile-displaybackgroundimage-shrink_350_1400/0/1660673136009?e=1667433600&v=beta&t=tWWH0__faF44uT22-4SLzo72zHoNJI0FAD7hCsvcpsU)
 
 
-## Hi there 👋, My Name is Freelancer Mehedi
+## Hi there 👋, I'm Freelancer Mehedi
 <p>
 ✳️ I am a Web Designer<br>
 ✳️ WordPress Developer<br>
-✳️ E-commerce Expert<br>
+✳️ E-Commerce Expert<br>
 ✳️ Digital Marketer
 </p>
 
@@ -41,7 +41,7 @@ I can also design landing pages, fix WordPress issues and errors, and often help
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freelancerrmehedi)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=freelancerrmehedi&show_icons=true) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=freelancerrmehedi)
+
 
 <img src="https://github.com/mikyll/mikyll/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" style="max-width: 100%;">
 
