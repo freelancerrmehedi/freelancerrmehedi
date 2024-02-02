@@ -25,14 +25,14 @@ I can also design landing pages, fix WordPress issues and errors, and often help
 
 ## ⤵️ Connect with me!
 <p align="left">
+ <a href="https://linkedin.com/in/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
 <a href="https://twitter.com/frelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frelancerrmehedi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20415273/freelancer-mehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20415273/freelancer-mehedi" height="30" width="40" /></a>
 <a href="https://fb.com/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
 <a href="https://instagram.com/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
 <a href="https://dribbble.com/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
 <a href="https://www.behance.net/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
 <a href="https://medium.com/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20415273/freelancer-mehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20415273/freelancer-mehedi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
 </p>
 
