@@ -1,10 +1,5 @@
 ![](https://media.licdn.com/dms/image/C5616AQE0Mj7HDLDGEw/profile-displaybackgroundimage-shrink_350_1400/0/1660673136948?e=1712188800&v=beta&t=wIZMi2otAuyh3t40gF-kEM6T3HnEoYa_2sub0XbXSrY)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freelancerrmehedi&show_icons=true&locale=en&layout=compact" alt="freelancerrmehedi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freelancerrmehedi&show_icons=true&locale=en" alt="freelancerrmehedi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freelancerrmehedi&" alt="freelancerrmehedi" /></p>
 
 ## Hi there 👋, I'm Freelancer Mehedi
 <p>
@@ -13,8 +8,6 @@
 ✳️ E-Commerce Expert<br>
 ✳️ Digital Marketer
 </p>
-
-![Profile views](https://gpvc.arturio.dev/freelancerrmehedi)   
 
 ## 🚀 About Me
 Hi, I'm Freelancer Mehedi. Welcome to my profile. I have been a professional web designer, developer, and WordPress expert since 2020. I'm comfortable working with all the major WordPress page builders, including WP Bakery, Elementor, Divi, Gutenberg, and WP Page Builder. 
