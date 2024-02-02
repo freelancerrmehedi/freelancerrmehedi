@@ -27,7 +27,7 @@ I can also design landing pages, fix WordPress issues and errors, and often help
 
 ## ⤵️ Connect with me!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/freelancerrmehedi/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/freelancerrmehedi/)  
 <p dir="auto">
   <a href="https://www.facebook.com/freelancerrmehedi" rel="nofollow"><img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" height="40" style="max-width: 100%;"></a>  
   <a href="https://www.instagram.com/freelancerrmehedi/" rel="nofollow"><img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" height="40" style="max-width: 100%;"></a>  
