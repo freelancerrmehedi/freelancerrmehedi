@@ -1,5 +1,4 @@
-(https://media.licdn.com/dms/image/C5616AQE0Mj7HDLDGEw/profile-displaybackgroundimage-shrink_350_1400/0/1660673136948?e=1712188800&v=beta&t=wIZMi2otAuyh3t40gF-kEM6T3HnEoYa_2sub0XbXSrY)
-
+![](https://media.licdn.com/dms/image/C5616AQE0Mj7HDLDGEw/profile-displaybackgroundimage-shrink_350_1400/0/1660673136948?e=1712188800&v=beta&t=wIZMi2otAuyh3t40gF-kEM6T3HnEoYa_2sub0XbXSrY)
 
 ## Hi there 👋, I'm Freelancer Mehedi
 <p>
