@@ -46,4 +46,4 @@ I can also design landing pages, fix WordPress issues and errors, and often help
 
 
 ## 📧 For Business Inquiries
-✳️ ➖ freelancerrmehedi@gmail.com 
+✳️ freelancerrmehedi@gmail.com 
