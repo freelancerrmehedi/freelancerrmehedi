@@ -33,7 +33,7 @@ I can also design landing pages, fix WordPress issues and errors, and often help
 <a href="https://www.behance.net/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="freelancerrmehedi" height="30" width="80" /></a>
 <a href="https://medium.com/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="freelancerrmehedi" height="30" width="80" /></a>
 <a href="https://stackoverflow.com/users/20415273/freelancer-mehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20415273/freelancer-mehedi" height="30" width="80" /></a>
-<a href="https://www.youtube.com/c/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freelancerrmehedi" height="30" width="80" /></a>
 </p>
 
 ## 📈 Github Statistics
