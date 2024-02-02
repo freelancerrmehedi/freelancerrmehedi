@@ -3,8 +3,9 @@
 
 ## Hi there 👋, I'm Freelancer Mehedi
 <p>
-✳️ I am a Web Designer<br>
-✳️ WordPress Developer<br>
+✳️ I am a Web Designer and Developers<br>
+✳️ Wix & Squarespace Developer<br>
+✳️ WordPress Designer<br>
 ✳️ E-Commerce Expert<br>
 ✳️ Digital Marketer
 </p>
