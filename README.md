@@ -25,8 +25,16 @@ I can also design landing pages, fix WordPress issues and errors, and often help
  </p>
 
 ## ⤵️ Connect with me!
-<p align="left"> 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/freelancerrmehedi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/freelancerrmehedi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/freelancerrmehedi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/freelancerrmehedi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/frelancerrmehedi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/freelancerrMehedi)  
+<p align="left">
+<a href="https://twitter.com/frelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frelancerrmehedi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/freelancer-mehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="freelancer-mehedi" height="30" width="40" /></a>
+<a href="https://fb.com/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
+<a href="https://instagram.com/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
+<a href="https://dribbble.com/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
+<a href="https://www.behance.net/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
+<a href="https://medium.com/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/freelancerrmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freelancerrmehedi" height="30" width="40" /></a>
 </p>
 
 ## 📈 Github Statistics
